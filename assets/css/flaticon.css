@@ -1,0 +1,108 @@
+@font-face {
+  font-family: Flaticon;
+  src: url(../fonts/Flaticon.eot);
+  src: url(../fonts/Flaticond41d.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Flaticon.woff) format("woff"),
+    url(../fonts/Flaticon.ttf) format("truetype"),
+    url(../fonts/Flaticon.svg#Flaticon) format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: Flaticon;
+    src: url(../Flaticon.html#Flaticon) format("svg");
+  }
+}
+[class*=" flaticon-"]:after,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class^="flaticon-"]:before {
+  font-family: Flaticon;
+  font-style: normal;
+  display: block;
+}
+.flaticon {
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.flaticon-archives:before {
+  content: "\f100";
+}
+.flaticon-briefcase:before {
+  content: "\f101";
+}
+.flaticon-clip:before {
+  content: "\f102";
+}
+.flaticon-coffee-cup:before {
+  content: "\f103";
+}
+.flaticon-computer:before {
+  content: "\f104";
+}
+.flaticon-desk:before {
+  content: "\f105";
+}
+.flaticon-desk-chair:before {
+  content: "\f106";
+}
+.flaticon-envelope:before {
+  content: "\f107";
+}
+.flaticon-folder:before {
+  content: "\f108";
+}
+.flaticon-folder-1:before {
+  content: "\f109";
+}
+.flaticon-home:before {
+  content: "\f10a";
+}
+.flaticon-keyboard:before {
+  content: "\f10b";
+}
+.flaticon-lamp:before {
+  content: "\f10c";
+}
+.flaticon-laptop:before {
+  content: "\f10d";
+}
+.flaticon-line-chart:before {
+  content: "\f10e";
+}
+.flaticon-loupe:before {
+  content: "\f10f";
+}
+.flaticon-mouse:before {
+  content: "\f110";
+}
+.flaticon-music:before {
+  content: "\f111";
+}
+.flaticon-notebook:before {
+  content: "\f112";
+}
+.flaticon-photo:before {
+  content: "\f113";
+}
+.flaticon-push-pin:before {
+  content: "\f114";
+}
+.flaticon-scissors:before {
+  content: "\f115";
+}
+.flaticon-smartphone:before {
+  content: "\f116";
+}
+.flaticon-stats:before {
+  content: "\f117";
+}
+.flaticon-users:before {
+  content: "\f118";
+}
